@@ -33,11 +33,15 @@ The outcome of all this will, hopefully, be actionablr insights for SyriaTel to 
 
 **student.ipynb** contains all the code and models used for this project
 
-**customer_churn** contains the original data from Kaggle [https://www.kaggle.com/becksddf/churn-in-telecoms-dataset].
+**customer_churn** contains the original data from <a href="https://www.kaggle.com/becksddf/churn-in-telecoms-dataset%5D">Kaggle</a>.
 
 **cleaned_customer_churn.csv** contains the data after it was cleaned and modified to improve model performance
 
 **churn.jpeg** is the cool picture used at the top of this file. 
+
+**customer_churn_pres.pdf** contains the Presentation focused on high level explanation of findings.
+
+A related Blog Post can be found on Link.
 
 
 Please enjoy and please do not hesitate to reach out with any questions you might have!
