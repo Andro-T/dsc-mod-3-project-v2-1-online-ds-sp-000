@@ -41,7 +41,7 @@ The outcome of all this will, hopefully, be actionablr insights for SyriaTel to 
 
 **customer_churn_pres.pdf** contains the Presentation focused on high level explanation of findings.
 
-A related Blog Post can be found on Link.
+An unrelated Blog Post covering my Data Journey can be found <a href="https://docs.google.com/document/d/1iS6thPO3TJcuT7WGf0n9KS-ClSaWjG2n_WtMSmcfsbU/edit?usp=sharing">here</a>.
 
 
 Please enjoy and please do not hesitate to reach out with any questions you might have!
